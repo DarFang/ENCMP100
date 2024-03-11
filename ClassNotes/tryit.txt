@@ -1,0 +1,3 @@
+ The loop variable is 1
+ The loop variable is 2
+ The loop variable is 3
